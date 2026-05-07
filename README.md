@@ -1,5 +1,5 @@
 # About Me:
-Software Engineering Student @ Polymtl
+Software Engineering Student @ PolyMtl
 
 
 ## Socials:
